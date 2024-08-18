@@ -1,5 +1,8 @@
 # About Me
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiyuskis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiyuskis&layout=compact&show_icons=true&theme=blue-green" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=kaiyuskis&theme=blue-green&show_icons=true" />
+</p>
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,docker,ps,pr,windows)](https://skillicons.dev)
