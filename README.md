@@ -1,11 +1,5 @@
 # About Me
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiyuskis&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiyuskis&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiyuskis&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiyuskis&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaiyuskis&theme=github_dark&utcOffset=8)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiyuskis)](https://github.com/kaiyuskis/github-readme-stats)
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,docker,ps,pr,windows,apple)](https://skillicons.dev)
