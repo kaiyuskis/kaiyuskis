@@ -1,5 +1,5 @@
 # About Me
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiyuskis)](https://github.com/kaiyuskis/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiyuskis)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,docker,ps,pr,windows,apple)](https://skillicons.dev)
