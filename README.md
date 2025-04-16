@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaiyuskis&theme=matrix&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,docker,ps,pr,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,docker,windows)](https://skillicons.dev)
 
 # Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord,twitter,instagram)](https://skillicons.dev)
